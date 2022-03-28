@@ -71,3 +71,5 @@ export default function Home() {
 
 // npm install -D tailwindcss postcss autoprefixer
 // npx tailwindcss init -p
+// npx hardhat
+// pm install @openzeppelin/contracts  adds standard for nfts
